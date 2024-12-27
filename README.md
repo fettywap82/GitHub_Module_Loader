@@ -18,7 +18,7 @@ A flexible and efficient module loader for Roblox, designed to fetch and load Lu
 ## Setup Instructions
 
 ### 1. **Prepare the ModuleLoader**
-   - Place the `ModuleLoader` script in `ReplicatedStorage` within your Roblox game.
+   - Place the `ModuleLoader` ModuleScript in `ReplicatedStorage` within your Roblox game.
    - Set the `BaseURL` in `ModuleLoader` to point to your GitHub repository where modules are stored.
 
 ### 2. **Test Example Script**
