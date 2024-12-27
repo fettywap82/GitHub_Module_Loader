@@ -2,7 +2,8 @@
     TestModule.lua
     This is a simple test module to confirm that the ModuleLoader works.
     When this module is loaded, it prints a message to the output.
-    DO NOT DOWNLOAD THIS BECAUSE IT IS NOT NECESSARY, this is supposed to be only loaded through github.
+    DO NOT DOWNLOAD THIS BECAUSE IT IS NOT NECESSARY.
+    This is supposed to be only loaded through github.
 ]]
 
 -- Function to run when the module is loaded
