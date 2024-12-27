@@ -15,12 +15,12 @@ ModuleLoader.RetryCount = 3 -- Number of retries for HTTP requests
 
 -- Module-specific settings [put the names of the modules you want to load and configure their settings here]
 ModuleLoader.Settings = {
-	geeked = {
+	ModuleLoader = {
 		LazyLoad = true,
 		UseCache = true,
 		Debug = false,
 	},
-	ModuleLoader = {
+	ModuleTester = {
 		LazyLoad = false,
 		UseCache = true,
 		Debug = false,
